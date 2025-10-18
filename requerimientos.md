@@ -2,3 +2,23 @@
 toma de requerimentos restaurante "Buena Mesa"
 contexto:
 el restaurante esta un poco desactualizado en sistemas, toma de pedidos, gestionar estado de pedidos. controlar inventario y eso lleva un problema al querer llevar un registro solido
+Usuarios :
+1. Administrador: CRUD completo de usuarios, productos, pedidos, y reportes.
+2. Vendedor: Registrar ventas, editar pedidos, consultar clientes.
+3. Cliente: Realizar pedidos, ver historial, editar su perfil.
+
+ ¿Quién usará el sistema y prioridad?
+  -Administrador: gestion de productos
+  -Vendedor: registro de ventas
+  -Cliente: carrito de compras
+
+
+| Prioridad | Función                     | Rol |
+
+| Alta      | Registro e inicio de sesión | Todos |
+| Alta      | Gestión de productos        | Admin |
+| Alta      | Registro de ventas          | Vendedor |
+| Media     | Reportes de ventas          | Admin |
+| Media     | Carrito de compras          | Cliente |
+| Baja      | Notificaciones por correo   | Todos |
+
