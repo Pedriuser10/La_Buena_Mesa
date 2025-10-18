@@ -5,7 +5,8 @@ el restaurante esta un poco desactualizado en sistemas, toma de pedidos, gestion
 
 # Problema
 Problema principal El restaurante quiere digitalizar el menú, recibir pedidos (para mesa y para delivery), gestionar el estado de pedidos y controlar inventario/estadísticas básicas.
-Usuarios :
+
+# Usuarios :
 1. Administrador: CRUD completo de usuarios, productos, pedidos, y reportes.
 2. Vendedor: Registrar ventas, editar pedidos, consultar clientes.
 3. Cliente: Realizar pedidos, ver historial, editar su perfil.
