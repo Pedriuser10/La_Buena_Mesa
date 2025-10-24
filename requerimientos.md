@@ -26,3 +26,13 @@ Problema principal El restaurante quiere digitalizar el menú, recibir pedidos (
 | Media     | Carrito de compras          | Cliente |
 | Baja      | Notificaciones por correo   | Todos |
 
+# requisitos funcionales :
+
+- El sistema debe permitir el registro e inicio de sesión de usuarios.
+- El administrador puede crear, editar y eliminar usuarios y productos.
+- Los vendedores pueden registrar pedidos y consultar su historial.
+- Los clientes pueden visualizar y comprar productos.
+- El sistema debe calcular el total del pedido automáticamente.
+- Debe haber control de stock al confirmar una venta.
+
+
