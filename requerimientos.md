@@ -36,7 +36,7 @@ Problema principal El restaurante quiere digitalizar el menú, recibir pedidos (
 - Debe haber control de stock al confirmar una venta.
 
 
-requisitos no funcionales
+# requisitos no funcionales
 - La interfaz debe ser intuitiva y responsiva.
 - El sistema debe guardar los datos en una base confiable (MongoDB).
 - El tiempo de respuesta máximo debe ser menor a 2 segundos.
