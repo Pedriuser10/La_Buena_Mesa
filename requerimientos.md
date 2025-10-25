@@ -42,3 +42,4 @@ Problema principal El restaurante quiere digitalizar el menú, recibir pedidos (
 - El tiempo de respuesta máximo debe ser menor a 2 segundos.
 - Se debe usar control de versiones Git con Gitflow.
 - Debe estar documentado y subido a GitHub público.
+
